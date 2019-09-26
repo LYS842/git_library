@@ -10,3 +10,4 @@ git config --global user.email "liuli.lc01@inspur.com"
 git init
 git add  <filename>
 git commit -m <message>
+github
