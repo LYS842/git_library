@@ -11,6 +11,11 @@ git init
 git add  <filename>
 git commit -m <message>
 github
+ccccc
+
+
+put
+=======
 master
 m1
 ccccc
